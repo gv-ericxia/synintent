@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-# yibin.eric.xia@gmail.com
 
 from __future__ import print_function
 
